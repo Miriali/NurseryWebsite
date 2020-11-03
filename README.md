@@ -7,8 +7,11 @@ In this repository you can find the code for a nursery website, it was developed
 Basic knowledge of:
 
 :rose: Html
+
 :sunflower: Css
+
 :tulip: Bootstrap and
+
 :hibiscus: Responsive web design
 
 #### Screenshot
