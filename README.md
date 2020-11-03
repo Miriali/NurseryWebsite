@@ -1,5 +1,5 @@
 ## Nursery Website :seedling: :open_file_folder:
-Hello github community! : octocat:
+Hello github community! :octocat:
 
 In this repository you can find the code for a nursery website, it was developed using Bootstrap 4, it´s responsive and its design is aesthetic and minimalist. I hope it´s to your liking and usefulness.
 
